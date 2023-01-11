@@ -23,8 +23,13 @@ import pickle
 def IDK():
     # IDK IDK
 
+#<<<<<<< Nathan
 # Nathan Update
-This will create an error
+#This will create an error
+#=======
+#    testing2
+
+#>>>>>>> main
 
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
