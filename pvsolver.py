@@ -18,11 +18,18 @@ from scipy import sparse
 from scipy.sparse import linalg
 import pickle
 
+## ### Updated in Nathan Branch
 # Hello It's Nathan
 def IDK():
     # IDK IDK
 
-    testing2
+#<<<<<<< Nathan
+# Nathan Update
+#This will create an error
+#=======
+#    testing2
+
+#>>>>>>> main
 
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
