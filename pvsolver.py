@@ -22,6 +22,8 @@ import pickle
 def IDK():
     # IDK IDK
 
+    testing2
+
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
     U[1:Nx+2,0] = -U[1:Nx+2,1]  
