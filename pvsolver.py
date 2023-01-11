@@ -18,7 +18,11 @@ from scipy import sparse
 from scipy.sparse import linalg
 import pickle
 
+
 MARCUS LO first update
+
+# Nathan 1st update
+
 
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
