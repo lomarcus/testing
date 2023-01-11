@@ -18,6 +18,9 @@ from scipy import sparse
 from scipy.sparse import linalg
 import pickle
 
+# Hello It's Nathan
+def IDK():
+    # IDK IDK
 
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
