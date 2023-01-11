@@ -18,6 +18,8 @@ from scipy import sparse
 from scipy.sparse import linalg
 import pickle
 
+MARCUS LO first update
+
 def ghost(U,V,Nx,Ny):      #Function for ghost condition
     #BOTTOM WALL Ghost point condition
     U[1:Nx+2,0] = -U[1:Nx+2,1]  
